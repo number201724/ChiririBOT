@@ -30,6 +30,10 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+DEBUG_GUARD/
+DEBUG_NANA/
+RELEASE_GUARD/
+RELEASE_NANA/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
